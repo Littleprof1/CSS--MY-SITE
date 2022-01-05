@@ -175,6 +175,27 @@ a:hover {
       .my-image {
           width: 25%;
       }
+      .intro {        
+        width: 75%;
+        margin: auto;
+      }
+      .skill-row {
+        width: 60%;
+        line-height: 2;
+        text-align: center;
+    }
+    .image {
+        width: 55%;
+        float: none;
+        margin: 10px;
+    }
+    
+    
+    .card {
+        width: 65%;
+        float: none;
+        margin: 10px;
+    }
       p {
           line-height: 1.5;
       }
@@ -182,12 +203,13 @@ a:hover {
           padding-top: 50px;
       }
       .middle-container {
-        margin: 30px 0;
+        margin: 50px 0;
       }
       hr {
         margin: 35px auto;
       }
       .contact-message {
+          width: 65%;
         margin: 20px auto 30px;
       }
       .btn {
